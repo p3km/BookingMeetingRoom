@@ -1,0 +1,16 @@
+.HighlightBooking {
+    background-color: white;
+    color: #1a001a;
+    padding: 2rem;
+    border-radius: 0.25rem;
+    float: left;
+    font-size: 1.5rem;
+    width: 80%;
+}
+.button{
+    float: right;
+    color: #ffa3ff;
+}
+.exitButton{
+    float: left;
+}

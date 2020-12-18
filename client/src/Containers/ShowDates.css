@@ -1,0 +1,21 @@
+.ShowRoom{
+    /* display: block; */
+    background-color: #910585;
+    flex-basis: 0;
+    flex-grow: 1;
+    margin: 0.25rem;
+    border-radius: 1rem;
+    padding: 0.75rem;
+}
+.flex-container{
+    display: flex;
+    margin: 0.25rem 0;
+    color:white;
+}
+.flex-container h1{
+    color: black;
+    display:block;
+}
+hr{
+    width: 80%;
+}

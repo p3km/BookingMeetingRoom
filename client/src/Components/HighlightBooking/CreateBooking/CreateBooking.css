@@ -1,0 +1,42 @@
+form{
+    width: 100%;
+    border-radius: 0.25rem;
+}
+select{
+    border-radius: 0.25rem;
+    width: 70%;
+}
+input{
+    border:none;
+    text-align: right;
+    display: inline-block;
+}
+*:focus{
+    outline: none;
+}
+label{
+    float: left;
+    font-size:1.5rem;
+    font-weight: 700;
+}
+.timeColumn{
+    display: inline;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+.formInput{
+    vertical-align: middle;
+    margin: 2rem;
+}
+.error{
+    border-color: red;
+    color:red;
+}
+.submit {
+    display: inline-block;
+    background: #1976d2; /* change to purple*/
+    color: white;
+    border-radius: 4px;
+    font-weight: 700;
+    padding: 0.75rem 1.5rem;
+  }
