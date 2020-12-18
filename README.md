@@ -6,4 +6,4 @@ This project allows users and organisors to check the availability and book meet
 ## Other documentation
 - ### [API documentation](./routes/api_design_v3.md)
 - ### [Running Locally](./docs/RunningLocally.md)
-- ### [Future Improvements](./docs/FutureWork.md) 
+
